@@ -1,5 +1,5 @@
 # Hola, mi nombre es Daniel 👋
-## Soy Estudiante de programacion
+
 
 
 ## Acualmente estoy aprendiendo:
