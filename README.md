@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on software development<br>🌱 I’m currently learning Cloud Computing Platforms<br>🤔 I want to learn more about management of high performance engineering teams.<br>🧑‍💻 Mainly working with Django, Java, Astro, Express, React, GCP.<br>📫 Reach me at danieltorrealbabravo@gmail.com
+🔭 I’m currently working on software development<br>🌱 I’m currently learning Cloud Computing Platforms<br>🤔 I want to learn more about high performance engineering teams.<br>🧑‍💻 Mainly working with Django, Java, Astro, Express, React, GCP.<br>📫 Reach me at danieltorrealbabravo@gmail.com
 
 
 ## 🌐 Socials:
